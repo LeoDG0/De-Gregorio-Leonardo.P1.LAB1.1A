@@ -1,0 +1,86 @@
+# depslib dependency file v1.0
+1653312579 source:c:\users\leo\desktop\parcial laboratorio 1a de gregorio\colores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"colores.h"
+
+1653276702 source:c:\users\leo\desktop\parcial laboratorio 1a de gregorio\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fecha.h"
+	"mascotas.h"
+
+1653312577 source:c:\users\leo\desktop\parcial laboratorio 1a de gregorio\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipo.h"
+
+1653315092 c:\users\leo\desktop\parcial laboratorio 1a de gregorio\tipo.h
+
+1653274154 c:\users\leo\desktop\parcial laboratorio 1a de gregorio\fecha.h
+
+1653317861 source:c:\users\leo\desktop\parcial laboratorio 1a de gregorio\mascotas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mascotas.h"
+
+1653317940 c:\users\leo\desktop\parcial laboratorio 1a de gregorio\mascotas.h
+	"fecha.h"
+	"tipo.h"
+	"colores.h"
+	"servicio.h"
+	"cliente.h"
+
+1653310664 c:\users\leo\desktop\parcial laboratorio 1a de gregorio\colores.h
+
+1653274152 c:\users\leo\desktop\parcial laboratorio 1a de gregorio\servicio.h
+
+1653312578 source:c:\users\leo\desktop\parcial laboratorio 1a de gregorio\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"servicio.h"
+
+1653312576 source:c:\users\leo\desktop\parcial laboratorio 1a de gregorio\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"trabajo.h"
+
+1653317842 source:c:\users\leo\desktop\parcial laboratorio 1a de gregorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mascotas.h"
+	"colores.h"
+	"servicio.h"
+	"trabajo.h"
+	"tipo.h"
+	"fecha.h"
+
+1653308202 c:\users\leo\desktop\parcial laboratorio 1a de gregorio\trabajo.h
+	"fecha.h"
+	"mascotas.h"
+
+1653269360 source:c:\users\leo\desktop\parcial laboratorio 1a de gregorio\validacion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validacion.h"
+	"fecha.h"
+
+1653269175 c:\users\leo\desktop\parcial laboratorio 1a de gregorio\validacion.h
+
+1653309232 c:\users\leo\desktop\parcial laboratorio 1a de gregorio\cliente.h
+
+1653309232 source:c:\users\leo\desktop\parcial laboratorio 1a de gregorio\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"mascotas.h"
+
